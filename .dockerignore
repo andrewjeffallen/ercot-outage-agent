@@ -8,6 +8,8 @@ __pycache__/
 dist/
 .ipynb_checkpoints/
 hf_cache/
-
-# uv
+notebooks/
+truss_model/
 uv.lock
+.git/
+.gitignore
